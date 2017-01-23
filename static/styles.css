@@ -1,0 +1,18 @@
+
+/* Your CSS goes here */
+form input, select {
+    background-color: yellow;
+}
+
+.bold {
+    font-weight: bold
+}
+
+form {
+    border: 3px solid grey;
+    border-spacing: 10px;
+}
+
+div {
+    padding: 1em;
+}
